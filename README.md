@@ -1,10 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Yatharth Gouri</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4AF626&center=true&vCenter=true&width=520&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Hibernate;Cloud+%26+Microservices+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4AF626&center=true&vCenter=true&width=520&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Hibernate;Cloud+%26+Microservices+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
+
 
 ---
 
